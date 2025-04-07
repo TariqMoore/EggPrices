@@ -1,0 +1,10 @@
+/*General Styling*/
+html{
+    scroll-behavior: smooth;
+}
+body{
+    font-family: Montserrat;
+}
+.bg{ 
+    background-color: rgba(119, 96, 96, 0.319); /*Background color*/
+}
